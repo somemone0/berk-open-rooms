@@ -3,8 +3,13 @@ import datetime
 
 def get_buildings():
     matches = pd.read_csv("matches.csv")
+    locations = pd.read_csv("locations.csv")
+    
+    ml = matches[["latlong", "secs"]].merge(locations, how="left", left_on="latlong", right_on="name")
+    ml.drop(["latlong", "secs"], axis=1, inplace=True)
 
-    return [{"id": r[1]["id"], "latlong": r[1]["latlong"]} for r in matches[["latlong", "id"]].iterrows()]
+    return ml.to_json(orient="records")
+    # return [{"id": r[1]["id"], "latlong": r[1]["latlong"]} for r in matches[["latlong", "id"]].iterrows()]
 
 def get_rooms_open_in_building(latlongid, dt, dayofweek):
     use = dt.replace(day=1, month=1, year=1900)

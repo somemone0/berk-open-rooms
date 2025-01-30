@@ -19,7 +19,7 @@ def add_report(flag, locationName, dt):
     con = sqlite3.Connection("./reports.db")
     cur = con.cursor()
 
-    cur.execute("INSERT INTO reports VALUES ('{f}', '{l}', '{d}');".format(f=flag, l=locationName, d=use))
+    cur.execute("INSERT INTO reports VALUES ('{f}', '{l}', '{d}');".format(f=str(flag), l=str(locationName), d=dt))
 
     cur.close()
     con.commit()
