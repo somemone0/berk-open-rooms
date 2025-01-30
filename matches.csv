@@ -1,72 +1,72 @@
-latlong,secs
-2240 Piedmont Ave.,2240 Piedmont
-Barker Hall,Barker
-Berkeley Art Museum and Pacific Film Archive,Berkeley Art Museum
-Birge Hall,Birge
-Blum Hall,Blum
-Botanical Garden,Botanical
-Cheit Hall,Cheit
-Cory Hall,Cory
-Davis Hall,Davis
-Dwinelle Hall,Dwinelle
-Etcheverry Hall,Etcheverry
-Evans Hall,Evans
-Giannini Hall,Giannini
-Gilman Hall,Gilman
-Graduate Theological Union Library,Graduate Theological Union
-Hargrove Music Library,Hargrove
-Haviland Hall,Haviland
-Hearst Mining Circle,Hearst
-Hearst Mining Circle,Hearst Mining
-Hertz Hall,Hertz
-Hesse Hall,Hesse
-Hildebrand Hall,Hildebrand
-Hilgard Hall,Hilgard
-Latimer Hall,Latimer
-Lewis Hall,Lewis
-Li Ka Shing Center,Li Ka Shing
-McCone Hall,McCone
-Morgan Hall,Morgan
-Morrison Hall,Morrison
-Mulford Hall,Mulford
-North Gate Hall,North Gate
-O'Brien Hall,O'Brien
-Pimentel Hall,Pimentel
-Soda Hall,Soda
-Stanley Hall,Stanley
-Stephens Hall,Stephens
-Sutardja Dai Hall,Sutardja Dai
-Tan Hall,Tan
-Valley Life Sciences Building,Valley Life Sciences
-Wellman Hall,Wellman
-Wheeler Hall,Wheeler
-Zellerbach Hall,Zellerbach
-Social Sciences Building,Social Sciences Building
-Anthropology and Art Practice building,Anthro/Art Practice Bldg
-Physics North and South,Physics Building
-Jacobs Hall,Jacobs Hall
-Goldman School,GSPP
-Graduate Theological Union,GTU Student Services
-Berkeley Way West,Berkeley Way West
-Hearst Memorial Gymnasium,Hearst Gym
-Genetics and Plant Biology,Genetics & Plant Bio
-Hearst Field Annex,Hearst Field Annex
-South Hall,South Hall
-Woo Hon Fai Hall,Woo Han Fai Hall
-California Memorial Stadium,Cal Memorial Stadium
-Haas Clubhouse,Haas Faculty Wing
-Chou Hall,Chou Hall
-Chou Hall,Chou Hall N540 and
-Starr East Asian Library,Starr Library
-Chou Hall,Chou Hall N440 and
-Philosophy Hall,Philosophy Hall
-The Law Building,UC LAW
-Bancroft Library,Bancroft Library
-Campbell Hall,Campbell Hall
-Donner Laboratory,Donner Lab
-Cesar E. Chavez Student Center,Chavez
-Recreational Sports Facility,RSF
-Doe Memorial Library,Doe Library
-Recreational Sports Facility,Rec Sports Facility
-Hearst Memorial Gymnasium,Hearst Gym North
-Hearst Memorial Gymnasium,Hearst Gym Tennis
+latlong,secs,id
+2240 Piedmont Ave.,2240 Piedmont,5
+Barker Hall,Barker,30
+Berkeley Art Museum and Pacific Film Archive,Berkeley Art Museum,33
+Birge Hall,Birge,37
+Blum Hall,Blum,39
+Botanical Garden,Botanical,40
+Cheit Hall,Cheit,52
+Cory Hall,Cory,60
+Davis Hall,Davis,62
+Dwinelle Hall,Dwinelle,70
+Etcheverry Hall,Etcheverry,80
+Evans Hall,Evans,84
+Giannini Hall,Giannini,94
+Gilman Hall,Gilman,96
+Graduate Theological Union Library,Graduate Theological Union,101
+Hargrove Music Library,Hargrove,105
+Haviland Hall,Haviland,108
+Hearst Mining Circle,Hearst,113
+Hearst Mining Circle,Hearst Mining,113
+Hertz Hall,Hertz,116
+Hesse Hall,Hesse,117
+Hildebrand Hall,Hildebrand,118
+Hilgard Hall,Hilgard,119
+Latimer Hall,Latimer,133
+Lewis Hall,Lewis,139
+Li Ka Shing Center,Li Ka Shing,140
+McCone Hall,McCone,151
+Morgan Hall,Morgan,160
+Morrison Hall,Morrison,161
+Mulford Hall,Mulford,163
+North Gate Hall,North Gate,167
+O'Brien Hall,O'Brien,170
+Pimentel Hall,Pimentel,182
+Soda Hall,Soda,192
+Stanley Hall,Stanley,201
+Stephens Hall,Stephens,204
+Sutardja Dai Hall,Sutardja Dai,209
+Tan Hall,Tan,210
+Valley Life Sciences Building,Valley Life Sciences,221
+Wellman Hall,Wellman,225
+Wheeler Hall,Wheeler,228
+Zellerbach Hall,Zellerbach,233
+Social Sciences Building,Social Sciences Building,191
+Anthropology and Art Practice building,Anthro/Art Practice Bldg,20
+Physics North and South,Physics Building,180
+Jacobs Hall,Jacobs Hall,128
+Goldman School,GSPP,98
+Graduate Theological Union,GTU Student Services,100
+Berkeley Way West,Berkeley Way West,35
+Hearst Memorial Gymnasium,Hearst Gym,111
+Genetics and Plant Biology,Genetics & Plant Bio,93
+Hearst Field Annex,Hearst Field Annex,109
+South Hall,South Hall,193
+Woo Hon Fai Hall,Woo Han Fai Hall,232
+California Memorial Stadium,Cal Memorial Stadium,45
+Haas Clubhouse,Haas Faculty Wing,102
+Chou Hall,Chou Hall,54
+Chou Hall,Chou Hall N540 and,54
+Starr East Asian Library,Starr Library,202
+Chou Hall,Chou Hall N440 and,54
+Philosophy Hall,Philosophy Hall,179
+The Law Building,UC LAW,212
+Bancroft Library,Bancroft Library,26
+Campbell Hall,Campbell Hall,48
+Donner Laboratory,Donner Lab,66
+Cesar E. Chavez Student Center,Chavez,50
+Recreational Sports Facility,RSF,183
+Doe Memorial Library,Doe Library,64
+Recreational Sports Facility,Rec Sports Facility,183
+Hearst Memorial Gymnasium,Hearst Gym North,111
+Hearst Memorial Gymnasium,Hearst Gym Tennis,111
