@@ -52,3 +52,6 @@ def dtrp_to_dt(dtrp):
     form = "%Y-%m-%d %H:%M:%S.%f"
 
     return datetime.datetime.strptime(dtrp, form)
+
+if __name__ == "__main__":
+    create_flag_table()

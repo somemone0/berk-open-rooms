@@ -1,9 +1,10 @@
-FROM python-3.14.0a4-slim-bookworm
+FROM amancevice/pandas:slim-2.2.2
 
 WORKDIR /openroomsfinder
 COPY . /openroomsfinder
 
 RUN pip install -r requirements.txt
+EXPOSE 8080
+RUN python
 
 CMD ["python", "routes.py"]
-EXPOSE 8080
