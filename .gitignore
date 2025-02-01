@@ -1,6 +1,8 @@
-tmp.csv
-sections_strip.csv
-locations.ipynb
-pullclasses.ipynb
-reports.db
+server/tmp.csv
+server/sections_strip.csv
+server/locations.ipynb
+server/pullclasses.ipynb
+server/reports.db
 __pycache__/
+client/node_modules/
+client/package-clock.json
